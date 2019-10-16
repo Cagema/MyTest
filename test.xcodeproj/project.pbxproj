@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4B287DFC235700A400284DB9 /* Model in Resources */ = {isa = PBXBuildFile; fileRef = 4B287DFB235700A400284DB9 /* Model */; };
+		4B287DFE235700F800284DB9 /* View in Resources */ = {isa = PBXBuildFile; fileRef = 4B287DFD235700F800284DB9 /* View */; };
 		4B505641234D1932008FB2A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B505640234D1932008FB2A8 /* AppDelegate.swift */; };
 		4B505643234D1932008FB2A8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B505642234D1932008FB2A8 /* SceneDelegate.swift */; };
 		4B505645234D1932008FB2A8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B505644234D1932008FB2A8 /* ContentView.swift */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		4B287DFB235700A400284DB9 /* Model */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Model; sourceTree = "<group>"; };
+		4B287DFD235700F800284DB9 /* View */ = {isa = PBXFileReference; lastKnownFileType = folder; path = View; sourceTree = "<group>"; };
 		4B50563D234D1932008FB2A8 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B505640234D1932008FB2A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B505642234D1932008FB2A8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				4B505640234D1932008FB2A8 /* AppDelegate.swift */,
 				4B505642234D1932008FB2A8 /* SceneDelegate.swift */,
 				4B505644234D1932008FB2A8 /* ContentView.swift */,
+				4B287DFD235700F800284DB9 /* View */,
 				4B505646234D1936008FB2A8 /* Assets.xcassets */,
 				4B50564B234D1936008FB2A8 /* LaunchScreen.storyboard */,
 				4B287DFB235700A400284DB9 /* Model */,
@@ -246,6 +249,7 @@
 				4B50564D234D1936008FB2A8 /* LaunchScreen.storyboard in Resources */,
 				4B50564A234D1936008FB2A8 /* Preview Assets.xcassets in Resources */,
 				4B287DFC235700A400284DB9 /* Model in Resources */,
+				4B287DFE235700F800284DB9 /* View in Resources */,
 				4B505647234D1936008FB2A8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
