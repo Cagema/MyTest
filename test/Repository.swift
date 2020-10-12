@@ -9,5 +9,7 @@
 import Foundation
 
 class Repository {
-    
+    func loadData() {
+        print("Data loaded")
+    }
 }
