@@ -17,6 +17,7 @@
 		4B50564D234D1936008FB2A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B50564B234D1936008FB2A8 /* LaunchScreen.storyboard */; };
 		4B505658234D1937008FB2A8 /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B505657234D1937008FB2A8 /* testTests.swift */; };
 		4B505663234D1937008FB2A8 /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B505662234D1937008FB2A8 /* testUITests.swift */; };
+		F5B9528B25345806002AC8B0 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5B9528A25345806002AC8B0 /* NetworkService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		4B50565E234D1937008FB2A8 /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B505662234D1937008FB2A8 /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		4B505664234D1937008FB2A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5B9528A25345806002AC8B0 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				4B287DFB235700A400284DB9 /* Model */,
 				4B50564E234D1936008FB2A8 /* Info.plist */,
 				4B505648234D1936008FB2A8 /* Preview Content */,
+				F5B9528A25345806002AC8B0 /* NetworkService.swift */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B505641234D1932008FB2A8 /* AppDelegate.swift in Sources */,
+				F5B9528B25345806002AC8B0 /* NetworkService.swift in Sources */,
 				4B505643234D1932008FB2A8 /* SceneDelegate.swift in Sources */,
 				4B505645234D1932008FB2A8 /* ContentView.swift in Sources */,
 			);
